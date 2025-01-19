@@ -2,3 +2,21 @@
 # AUTHOR: PremiumV4
 # UPDATED: 2025-01-19
 
+# Domain：
+DOMAIN-SUFFIX,acde.buzz
+DOMAIN-SUFFIX,jp1.space
+DOMAIN-SUFFIX,kor1.space
+DOMAIN-SUFFIX,sgd1.space
+DOMAIN-SUFFIX,us1.space
+DOMAIN-SUFFIX,natseek.buzz
+DOMAIN-SUFFIX,hk1.space
+DOMAIN-SUFFIX,uk1.space
+DOMAIN-SUFFIX,de1.space
+DOMAIN-SUFFIX,twv1.space
+DOMAIN-SUFFIX,dci.buzz
+
+#VPS：
+DOMAIN,cloud.duckyci.com
+DOMAIN,www.anyfastcloud.com
+DOMAIN-SUFFIX,xihuancloud.com
+DOMAIN-SUFFIX,bytevirt.com
