@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,twv1.space
 DOMAIN-SUFFIX,dci.buzz
 
 #VPS：
-DOMAIN,cloud.duckyci.com
-DOMAIN,www.anyfastcloud.com
+DOMAIN-SUFFIX,duckyci.com
+DOMAIN-SUFFIX,anyfastcloud.com
 DOMAIN-SUFFIX,xihuancloud.com
 DOMAIN-SUFFIX,bytevirt.com
