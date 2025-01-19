@@ -2,7 +2,7 @@
 # AUTHOR: PremiumV4
 # UPDATED: 2025-01-19
 
-# Domain：
+# Domain：11
 DOMAIN-SUFFIX,acde.buzz
 DOMAIN-SUFFIX,jp1.space
 DOMAIN-SUFFIX,kor1.space
@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,de1.space
 DOMAIN-SUFFIX,twv1.space
 DOMAIN-SUFFIX,dci.buzz
 
-#VPS：
+#VPS：4
 DOMAIN-SUFFIX,duckyci.com
 DOMAIN-SUFFIX,anyfastcloud.com
 DOMAIN-SUFFIX,xihuancloud.com
