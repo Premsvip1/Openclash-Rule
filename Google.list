@@ -472,6 +472,7 @@ DOMAIN-SUFFIX,google.ventures
 DOMAIN-SUFFIX,google.vg
 DOMAIN-SUFFIX,google.vu
 DOMAIN-SUFFIX,google.ws
+DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googleacquisitionmigration.com
 DOMAIN-SUFFIX,googleadapis.com
 DOMAIN-SUFFIX,googleadservices-cn.com
@@ -506,6 +507,8 @@ DOMAIN-SUFFIX,googleoptimize-cn.com
 DOMAIN-SUFFIX,googleoptimize.com
 DOMAIN-SUFFIX,googlepagecreator.com
 DOMAIN-SUFFIX,googlephotos.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googleplay.com
 DOMAIN-SUFFIX,googleplex.com
 DOMAIN-SUFFIX,googleplus.com
@@ -578,7 +581,6 @@ DOMAIN-SUFFIX,keytransparency.foo
 DOMAIN-SUFFIX,keytransparency.org
 DOMAIN-SUFFIX,lanternal.com
 DOMAIN-SUFFIX,like.com
-
 DOMAIN-SUFFIX,madewithcode.com
 DOMAIN-SUFFIX,material.io
 DOMAIN-SUFFIX,mdialog.com
@@ -798,6 +800,7 @@ PROCESS-NAME,BackupandSync
 # IP-CIDR6: 1
 # TOTAL: 183
 DOMAIN-SUFFIX,ggpht.cn
+DOMAIN-SUFFIX,imrworldwided.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gvt1.com
