@@ -987,6 +987,11 @@ IP-CIDR6,2620:120:e000::/40,no-resolve
 # UPDATED: 2024-07-03 16:14:51
 # DOMAIN: 1
 # TOTAL: 1
-
-
 DOMAIN,music.youtube.com
+
+# NAME: Emotn Store
+# AUTHOR: Premiumv4
+# UPDATED: 2025-01-31 22:51:51
+# DOMAIN: 1
+# TOTAL: 1
+DOMAIN-SUFFIX,keeflys.com
