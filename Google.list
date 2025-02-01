@@ -799,6 +799,12 @@ PROCESS-NAME,BackupandSync
 # IP-CIDR: 2
 # IP-CIDR6: 1
 # TOTAL: 183
+PROCESS-NAME,com.google.android.youtube
+PROCESS-NAME,com.google.android.youtube.tv
+DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
+DOMAIN-SUFFIX,youtubeeducation.com
+DOMAIN-SUFFIX,youtube.googleapis.com
+DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,imrworldwided.com
 DOMAIN-SUFFIX,ggpht.com
