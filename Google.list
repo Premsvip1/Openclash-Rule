@@ -1008,13 +1008,3 @@ USER-AGENT,*YouTubeMusic*,YouTubeMusic
 USER-AGENT,*com.google.ios.youtubemusic*,YouTubeMusic
 USER-AGENT,YouTubeMusic*,YouTubeMusic
 USER-AGENT,com.google.ios.youtubemusic*,YouTubeMusic
-
-# NAME: Emotn Store
-# AUTHOR: Premiumv4
-# UPDATED: 2025-01-31 22:51:51
-# DOMAIN: 1
-# TOTAL: 1
-DOMAIN-SUFFIX,keeflys.com
-DOMAIN-SUFFIX,app.emotn.com
-IP-CIDR,163.181.201.223/32,no-resolve
-IP-CIDR,54.177.49.60/32,no-resolve
