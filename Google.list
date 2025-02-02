@@ -988,7 +988,7 @@ DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
-DOMAIN,youtubei.googleapis.com
+DOMAIN-SUFFIX,youtubei.googleapis.com
 DOMAIN-KEYWORD,youtube
 IP-CIDR,31.13.64.0/18,no-resolve
 IP-CIDR,157.240.17.35/32,no-resolve
