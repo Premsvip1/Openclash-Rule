@@ -56,5 +56,8 @@ DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,nowe.hk
 DOMAIN-SUFFIX,players.brightcove.net
 DOMAIN-SUFFIX,youboranqs01.com
+DOMAIN-SUFFIX,cdn.branch.io
+DOMAIN-SUFFIX,api2.branch.io
+DOMAIN-SUFFIX,default.any-any.prd.api.discomax.com
 IP-CIDR,104.18.39.68/32,no-resolve
 IP-CIDR,18.244.61.82/32,no-resolve
