@@ -990,6 +990,8 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN-KEYWORD,youtube
+IP-CIDR,199.96.56.0/21
+IP-CIDR,31.13.64.0/18
 IP-CIDR,157.240.17.35/32,no-resolve
 IP-CIDR,172.110.32.0/21,no-resolve
 IP-CIDR,216.73.80.0/20,no-resolve
