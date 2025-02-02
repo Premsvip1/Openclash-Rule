@@ -56,3 +56,5 @@ DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,nowe.hk
 DOMAIN-SUFFIX,players.brightcove.net
 DOMAIN-SUFFIX,youboranqs01.com
+IP-CIDR,104.18.39.68/32,no-resolve
+IP-CIDR,18.244.61.82/32,no-resolve
