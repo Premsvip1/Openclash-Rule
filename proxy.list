@@ -21,5 +21,8 @@ DOMAIN-SUFFIX,anyfastcloud.com
 DOMAIN-SUFFIX,xihuancloud.com
 DOMAIN-SUFFIX,bytevirt.com
 
-#giffgaff
-DOMAIN-SUFFIX,http://mmsc.mediamessaging.co.uk
+#giffgaff:
+DOMAIN-SUFFIX,mmsc.mediamessaging.co.uk
+
+#Website:
+DOMAIN-SUFFIX,shuzijumin.com
