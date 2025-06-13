@@ -25,6 +25,24 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
+# 飞书
+DOMAIN-SUFFIX,feishu.cn
+DOMAIN-SUFFIX,feishu-3rd-party-services.com
+DOMAIN-SUFFIX,feishu-boe.net
+DOMAIN-SUFFIX,feishu-pre.net
+DOMAIN-SUFFIX,feishu.net
+DOMAIN-SUFFIX,feishuapp-cdn.net
+DOMAIN-SUFFIX,feishuapp.com
+DOMAIN-SUFFIX,feishucdn.com
+DOMAIN-SUFFIX,feishudoc.com
+DOMAIN-SUFFIX,feishuhuiyi.com
+DOMAIN-SUFFIX,feishuimg-boe.com
+DOMAIN-SUFFIX,feishuimg-pre.com
+DOMAIN-SUFFIX,feishuimg.com
+DOMAIN-SUFFIX,feishukacdn.com
+DOMAIN-SUFFIX,feishumeetings.com
+DOMAIN-SUFFIX,feishuoffice.com
+
 
 # 360
 DOMAIN-SUFFIX,360.com
