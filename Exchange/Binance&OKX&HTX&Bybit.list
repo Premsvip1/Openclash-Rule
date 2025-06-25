@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,htx.com
 # UPDATED: 2025-06-24
 # DOMAIN-SUFFIX: 15
 # TOTAL: 15
+DOMAIN,monitor-frontend-collector.a.bybit-aws.com
 DOMAIN,bybit-exchange.github.io
 DOMAIN,bybit.ada.support
 DOMAIN-SUFFIX,bybit.com
