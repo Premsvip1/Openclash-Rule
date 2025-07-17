@@ -15,6 +15,11 @@ DOMAIN-SUFFIX,de1.space
 DOMAIN-SUFFIX,twv1.space
 DOMAIN-SUFFIX,dci.buzz
 
+#69yun：4
+DOMAIN-SUFFIX,emby1.69yun69.com
+DOMAIN-SUFFIX,emby2.69yun69.com
+DOMAIN-SUFFIX,emby3.69yun69.com
+
 #VPS：4
 DOMAIN-SUFFIX,duckyci.com
 DOMAIN-SUFFIX,anyfastcloud.com
